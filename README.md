@@ -1,6 +1,7 @@
 # MKWii BRSTM Utility
 
 This Windows utility is written to speed up the creation of custom music for mario kart wii.
+
 The utitliy is created to help users quickly move files to the required location in the ISO working directory. 
 
 ## Requirements
@@ -14,11 +15,19 @@ Install the programs in the folders 'BrawlBox', 'MBRSTM' and 'patcher' repsectiv
 
 ## Commands
 Type 'build' to compile an ISO from the workdirectory
+
 Type 'move' to move BRSTMs from the custom music folder to the ISO location
+
 Type 'mcc' to convert multi channel BRSTMs and move them into the ISO location
+
 Type 'run' to start the patched ISO
+
 Type 'audacity' to open Audacity
+
 Type 'brawlbox' to open BrawlBox
+
 Type 'patcher' to open the patcher
+
 Type 'list' to see all current tracks using custom music
+
 Type 'exit' to quit
